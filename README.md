@@ -1,22 +1,20 @@
-- 👋 Hi, I’m @1eyewonder
+👋 Hi, I’m @1eyewonder
 
-- 👀 I’m interested in ...
-  1. C#
-  2. Blazor
-  3. Clean code
-  4. Microservices
+👀 I’m interested in ...
+  1. All things .NET! (C# & F#)
+  2. Clean, testable code
+  3. Microservices
   
-- 🌱 I’m currently learning ...
-  1. Fluxor in Blazor
-  2. Microservice design patterns
-  3. bUnit
+🌱 I’m currently learning ...
+  1. F#
+  2. Microservice architecture
   
-- 💞️ I’m looking to collaborate on ...
-  1. Blazor or WPF projects
-  2. Nuget packages
+💞️ I’m looking to collaborate on ...
+  1. Anything that helps solve a problem!
   
-- 📫 How to reach me ...
+📫 Let's Connect!
   1. Email: bronsonbata@gmail.com
+  2. [LinkedIn](https://www.linkedin.com/in/bronson-bata-a93763115/)
 
 <!---
 1eyewonder/1eyewonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
